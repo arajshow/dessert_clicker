@@ -3,6 +3,10 @@ DessertClicker - Code
 
 Code for Android Basics Codelab.
 
+I used this codelab for learning lifecycle of applications and debug command use to show this.
+
+
+<!--
 Introduction
 ------------
 
@@ -25,4 +29,4 @@ You need to know:
 Getting Started
 ---------------
 
-1. Download and run the app.
+-->
